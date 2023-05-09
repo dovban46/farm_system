@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="18277d20-4df4-4db1-a5ae-bd4da398c245" name="apache" url="http://localhost\farmer_project_php_mysql\majithiya_farm">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\farmer_project_php_mysql\majithiya_farm" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
